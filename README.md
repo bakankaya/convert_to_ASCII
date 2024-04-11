@@ -1,0 +1,1 @@
+This JavaScript function  is designed to convert any given text by replacing special characters (with accents) into their corresponding ASCII character encoding, which is commonly used in computer systems and applications.
